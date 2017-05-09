@@ -6,8 +6,12 @@ Inverted Index
 Tf-idf weighting scheme
 Ranked results using (Cosine similarity)
 
-plugins :
-Stop word
-Stemmer
-Case folder
-Tokenizer
+Plugins :
+<ul>
+<li>Stop word</li>
+<li>Stemmer</li>
+<li>Case folder</li>
+<li>Tokenizer</li>
+</ul>
+
+
