@@ -1,0 +1,33 @@
+{
+  "name": "text-processor",
+  "version": "1.0.0",
+  "description": "library for text and information retrieval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedykuw/text-processor.git"
+  },
+  "keywords": [
+    "ir",
+    "information",
+    "retrieval",
+    "text",
+    "search"
+  ],
+  "author": "Dedykuw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedykuw/text-processor/issues"
+  },
+  "homepage": "https://github.com/dedykuw/text-processor#readme",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "node-dir": "^0.1.16",
+    "prompt": "^1.0.0",
+    "utf8": "^2.1.2",
+    "warc": "^1.0.1"
+  }
+}
