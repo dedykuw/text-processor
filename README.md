@@ -1,10 +1,12 @@
 # text-processor
 
 Text processing using emit-stream nodejs.
-feature list :
-Inverted Index
-Tf-idf weighting scheme
-Ranked results using (Cosine similarity)
+</br>Feature list :
+<ul>
+<li>Inverted Index</li>
+<li>Tf-idf weighting scheme</li>
+<li>Ranked results using (Cosine similarity)</li>
+</ul>
 
 Plugins :
 <ul>
