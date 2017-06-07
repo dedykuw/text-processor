@@ -27,6 +27,7 @@
     "event-stream": "^3.3.4",
     "node-dir": "^0.1.16",
     "prompt": "^1.0.0",
+    "striptags": "^3.0.1",
     "utf8": "^2.1.2",
     "warc": "^1.0.1"
   }
